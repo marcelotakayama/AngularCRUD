@@ -7,6 +7,7 @@ import { ProdutosComponent } from './produtos/produtos.component';
 import { ProdutoDetalheComponent } from './produto-detalhe/produto-detalhe.component';
 import { ProdutoNovoComponent } from './produto-novo/produto-novo.component';
 import { ProdutoEditarComponent } from './produto-editar/produto-editar.component';
+//import {  } from './app.component'
 
 @NgModule({
   declarations: [
